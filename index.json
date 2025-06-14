@@ -1,0 +1,18 @@
+{
+  "appName": "Chat with Past",
+  "currentVersion": "1.0.0",
+  "upgradeVersion": "1.1.0",
+  "downloadUpdateRequired": true,
+  "retryShowCount": 3,
+  "features": [
+    "One-to-one messaging",
+    "Group chat with timeline view",
+    "Message history rewind (past view)",
+    "End-to-end encryption",
+    "Message delivery and read receipts",
+    "Media sharing (photos, videos, voice notes)",
+    "AI-assisted chat summaries",
+    "Offline chat saving",
+    "Dark mode and custom themes"
+  ]
+}
