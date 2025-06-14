@@ -4,6 +4,7 @@
   "upgradeVersion": "1.1.0",
   "downloadUpdateRequired": false,
   "retryShowCount": 3,
+  "downloadUrl":"https://play.google.com/store/apps/details?id=com.chatwithpast.app",
   "features": [
     "One-to-one messaging",
     "Group chat with timeline view",
