@@ -2,7 +2,7 @@
   "appName": "Chat with Past",
   "currentVersion": "1.0.0",
   "upgradeVersion": "1.1.0",
-  "downloadUpdateRequired": true,
+  "downloadUpdateRequired": false,
   "retryShowCount": 3,
   "features": [
     "One-to-one messaging",
